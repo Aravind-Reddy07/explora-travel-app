@@ -11,10 +11,9 @@ This repository contains a responsive web application built with React.js and st
 
 ## Installation
 
+```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
+`````
+Open http://localhost:5173 with your browser to see the result.
