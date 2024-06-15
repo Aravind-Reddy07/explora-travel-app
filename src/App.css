@@ -1,0 +1,23 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing:border-box;
+
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+.dark{
+  background-color: #252323;
+}
+
+::-webkit-scrollbar{
+  width: 0.6rem;
+  background-color: #14213d;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: rgb(177, 191, 209);
+}
